@@ -5,5 +5,4 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/
 
-data/raw/
-data/processed/
+data/*
