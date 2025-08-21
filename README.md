@@ -1,4 +1,4 @@
-# Internship Analysis
+# Supplier Risk Assessment
 
 How to run:
 1) python3 -m venv .venv
